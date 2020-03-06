@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
 
   spec.author             = { "Tariq Mahmood" => "tariq.mahmood@loxvo.com" }
  
-  s.source       = { :git => "https://github.com/tariqmahmood85/KnobControl.git", :tag => "1.0.0" }
+  spec.source       = { :git => "https://github.com/tariqmahmood85/KnobControl.git", :tag => "1.0.0" }
 
   spec.source_files  = "KnobControl"
   spec.exclude_files = "Classes/Exclude"
